@@ -1,0 +1,31 @@
+/* .globalTask{
+    position: absolute;
+} */
+
+
+
+.priorityStyle{
+    padding: 10px;
+    margin-right: 10px;
+    color: #fff;
+    background: #1ABC9C;
+    display: inline-flex;
+}
+.notPriorityStyle{
+    padding: 10px;
+    margin-right: 10px;
+    color: #fff;
+    background: #E74C3C;
+    display: inline-flex;
+}
+
+.task button{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

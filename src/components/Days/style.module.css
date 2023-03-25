@@ -1,0 +1,35 @@
+.globalDay{
+    position: relative;
+}
+
+
+.Day{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    background-color: #ECF0F1;
+}
+
+.Day p{
+    background: #34495E;
+    width: 50px;
+    border-radius: 15px 0 0 15px;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.Day button{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
